@@ -8,7 +8,7 @@
 
 import UIKit 
 import Moya
-import CoreLocation
+import CoreLocation 
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
