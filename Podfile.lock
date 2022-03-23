@@ -11,7 +11,7 @@ PODS:
  
 DEPENDENCIES:
   - AlamofireImage
-  - Moya
+  - Moya 
 
 SPEC REPOS:
   https://github.com/cocoapods/specs.git:
