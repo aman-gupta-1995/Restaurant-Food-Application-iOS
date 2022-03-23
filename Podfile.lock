@@ -6,7 +6,7 @@ PODS:
     - Moya/Core (= 11.0.2)
   - Moya/Core (11.0.2):  
     - Alamofire (~> 4.1)   
-    - Result (~> 3.0)  
+    - Result (~> 3.0)   
   - Result (3.2.4)
  
 DEPENDENCIES:
