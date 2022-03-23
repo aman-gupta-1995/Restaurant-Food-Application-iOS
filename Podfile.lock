@@ -8,7 +8,7 @@ PODS:
     - Alamofire (~> 4.1)   
     - Result (~> 3.0)  
   - Result (3.2.4)
-
+ 
 DEPENDENCIES:
   - AlamofireImage
   - Moya
