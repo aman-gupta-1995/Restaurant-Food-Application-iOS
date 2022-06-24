@@ -6,4 +6,3 @@ target 'RestaurantApp' do
     pod 'Moya'
 end
 
-
