@@ -5,7 +5,7 @@ import Result
 
 /// A protocol for controlling the behavior of `AccessTokenPlugin`.
 public protocol AccessTokenAuthorizable {
-
+ 
     /// Represents the authorization header to use for requests.
     var authorizationType: AuthorizationType { get }
 }
