@@ -8,7 +8,7 @@
 [![Gitter](https://badges.gitter.im/Alamofire/Alamofire.svg)](https://gitter.im/Alamofire/Alamofire?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) 
 
 Alamofire is an HTTP networking library written in Swift.
-
+ 
 - [Features](#features) 
 - [Component Libraries](#component-libraries) 
 - [Requirements](#requirements)
