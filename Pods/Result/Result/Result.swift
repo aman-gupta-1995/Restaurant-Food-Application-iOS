@@ -7,7 +7,7 @@ public enum Result<T, Error: Swift.Error>: ResultProtocol, CustomStringConvertib
 
 	// MARK: Constructors
 
-	/// Constructs a success wrapping a `value`.
+	/// Constructs a success wrapping a `value`. 
 	public init(value: T) {
 		self = .success(value)
 	}
