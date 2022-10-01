@@ -3,7 +3,7 @@
 //  RestaurantApp
 //
 //  Created by Gary Tokman on 11/24/18.
-//  Copyright © 2018 Gary Tokman. All rights reserved.
+//  Copyright © 2018 Gary Tokman. All rights reserved. 
 //
 
 import Foundation
